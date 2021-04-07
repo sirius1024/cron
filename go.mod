@@ -1,3 +1,3 @@
-module github.com/robfig/cron/v3
+module github.com/sirius1024/cron
 
-go 1.12
+go 1.16
